@@ -9,7 +9,7 @@ The workshops cover the **basics of PBPK**, **qualification of PBPK for regulato
 Within the two workshops, you will learn how to:
 
 **Workshop 1 / Day 1:**
-- [x] **Qualify PBPK models for intended use** using the [PK-Sim® qualification framework](),
+- [x] **Qualify PBPK models for intended use** using the [PK-Sim® qualification framework](https://docs.open-systems-pharmacology.org/shared-tools-and-example-workflows/qualification),
 - [x] Learn how to **model drug-drug interactions** in PK-Sim (DDI)
 - [x] Learn how to consider age-dependency in drug PK in PK-Sim (**Pediatric Analyses**)
 - [x] Assess variability within **population simulations**
