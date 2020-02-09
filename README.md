@@ -40,7 +40,7 @@ To be announced (near the PAGE Meeting)
 You can register for each workshop separately or for both at a reduced price.
 
 You can Register on Eventbrite:
-- [Register](https://www.eventbrite.com/e/qspc2020-pbpk-with-pk-sim-mobi-osp-suite-registration-86318114805) and select either: DAY 1 only, DAY 2 only, or BOTH days.
+- [Register](https://www.eventbrite.com/e/page-2020-pbpk-qsp-with-pk-sim-mobi-osp-suite-registration-93720625915) and select either: DAY 1 only, DAY 2 only, or BOTH days.
 
 Each workshop day is currently restricted to 15 participants.
 
