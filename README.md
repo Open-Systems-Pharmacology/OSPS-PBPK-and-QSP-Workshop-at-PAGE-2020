@@ -54,11 +54,11 @@ We will develop PBPK models for small molecules for DDI and pediatric population
 
 The two workshop days are scheduled as follows:
 
-### Day 1 (21st April, 2020)
+### Day 1 (9th June, 2020)
 
 ![Agenda Day 1](https://esqlabs.com/wp-content/uploads/2020/02/PAGE2020-Agenda-D1.png)
 
-### Day 2 (25th April, 2020)
+### Day 2 (13th June, 2020)
 
 ![Agenda Day 2](https://esqlabs.com/wp-content/uploads/2020/02/PAGE2020-Agenda-D2.png)
 
