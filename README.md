@@ -4,7 +4,7 @@
 
 esqLABS is running two hands-on **PK-Sim® & MoBi®** workshops on **PBPK and PBPK-based QSP** on **Tuesday and Saturday 9th and 13th of June 2020** as (pre & post) satellite meetings to the **PAGE Meeting 2020 in Ljubljana, Slovenia (Europe)**.
 
-The workshops cover the **basics of PBPK**, **qualification of PBPK for regulatory purpose** and the extension of PBPK with **customize organ physiology and pharmacodynamics** to show you how to build your very own PBPK-QSP platforms for the quantitative prediction of clinical trial outcomes by leveraging physiological and mechanistic knowledge to translate early in-vitro and preclinical outcomes to the clinic. 
+The workshops cover the **basics of PBPK**, **qualification of PBPK for regulatory purpose, PBPK for DDI and pediatrics** and the extension of PBPK with **customized organ physiology and pharmacodynamics**. The two workshops will enable participants to use **PK-Sim® & MoBi®** for PBPK in a regulatory setting (Day 1) and to build their very own PBPK-QSP platforms for the quantitative prediction of clinical trial outcomes by leveraging physiological and mechanistic knowledge to translate early in-vitro and preclinical outcomes to the clinic (Day 2). 
 
 Within the two workshops, you will learn how to:
 
